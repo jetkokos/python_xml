@@ -1,0 +1,935 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2018-11-09T02:45:59+04:00</generation-date>
+  <offer internal-id="1866301">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Студия: 17кв.м. 7 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <studio>1</studio>
+    <balcony>нет</balcony>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>2819310</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>17.00</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.90</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.90</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/4D1668EC-A90F-4800-AB68-B40CF7A7D7E8/?v=1&amp;cid=2411&amp;pid=4D1668EC-A90F-4800-AB68-B40CF7A7D7E8&amp;wpsid=13&amp;hash=ae9589f7630d67249e811a7d5e7c864b</image>
+  </offer>
+  <offer internal-id="1866305">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 3 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/C2533931-569A-4C51-8862-525F78B9346F/?v=1&amp;cid=2411&amp;pid=C2533931-569A-4C51-8862-525F78B9346F&amp;wpsid=13&amp;hash=c76c760f1c773c5c3fcee5caab43ec22</image>
+  </offer>
+  <offer internal-id="1866307">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 7 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/F991B779-89A2-4B2F-9979-9F9D3458F304/?v=1&amp;cid=2411&amp;pid=F991B779-89A2-4B2F-9979-9F9D3458F304&amp;wpsid=13&amp;hash=2243fb2d6fd05bc23702f286691bfedd</image>
+  </offer>
+  <offer internal-id="1866308">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 9 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>9</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/0DF698A0-BCF4-4D5A-9414-FC2E406A390D/?v=1&amp;cid=2411&amp;pid=0DF698A0-BCF4-4D5A-9414-FC2E406A390D&amp;wpsid=13&amp;hash=d16a046a796394fd0406b78e0a9857f9</image>
+  </offer>
+  <offer internal-id="1866309">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 11 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/AE6F2E88-92C2-4897-8584-480A468BD1A1/?v=1&amp;cid=2411&amp;pid=AE6F2E88-92C2-4897-8584-480A468BD1A1&amp;wpsid=13&amp;hash=bcd0b53cc11561703758d48ae0c83434</image>
+  </offer>
+  <offer internal-id="1866311">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 3 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/875A66E8-F123-412D-B9C6-E36EBB1DC53D/?v=1&amp;cid=2411&amp;pid=875A66E8-F123-412D-B9C6-E36EBB1DC53D&amp;wpsid=13&amp;hash=08eaab1c51f3b5215fd4967254f6d091</image>
+  </offer>
+  <offer internal-id="1866312">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 5 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>5</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/1B56AD0A-D2FA-4CEC-AE35-72F5415CD966/?v=1&amp;cid=2411&amp;pid=1B56AD0A-D2FA-4CEC-AE35-72F5415CD966&amp;wpsid=13&amp;hash=af98480b21034c1e22bf57af90f72e8e</image>
+  </offer>
+  <offer internal-id="1866313">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 7 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/ACF105E6-2B76-4357-8BE0-64CBEFE920D6/?v=1&amp;cid=2411&amp;pid=ACF105E6-2B76-4357-8BE0-64CBEFE920D6&amp;wpsid=13&amp;hash=0b05af1663931eb5e4617cc32fb5fb48</image>
+  </offer>
+  <offer internal-id="1866315">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 11 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/838239F0-5DCE-49B0-8B38-3DA7A722046D/?v=1&amp;cid=2411&amp;pid=838239F0-5DCE-49B0-8B38-3DA7A722046D&amp;wpsid=13&amp;hash=3a3087a3b9f4ca93ab911e70a104f1d2</image>
+  </offer>
+  <offer internal-id="1866316">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 13 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>13</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5341930</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>33.32</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.56</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/880A213D-039E-48DA-B207-E2650C0B5521/?v=1&amp;cid=2411&amp;pid=880A213D-039E-48DA-B207-E2650C0B5521&amp;wpsid=13&amp;hash=0291e1ce1353de6d43352ebe6e15c8dc</image>
+  </offer>
+  <offer internal-id="1866317">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 3 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>3</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5242530</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>32.70</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.25</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.25</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/54A3BE0A-7B67-4AB6-8CEA-1206F50319FF/?v=1&amp;cid=2411&amp;pid=54A3BE0A-7B67-4AB6-8CEA-1206F50319FF&amp;wpsid=13&amp;hash=27284460ea0c1fcc588d0c79f05b12e7</image>
+  </offer>
+  <offer internal-id="1866319">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Квартира: 1ккв 33кв.м. 7 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <balcony>нет</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>5242530</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>32.70</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.25</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.25</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/32483727-1D66-4302-A36C-3178EF44930D/?v=1&amp;cid=2411&amp;pid=32483727-1D66-4302-A36C-3178EF44930D&amp;wpsid=13&amp;hash=52c2d00fcd7c7d5a000a49e6db14f185</image>
+  </offer>
+  <offer internal-id="2225266">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-11-07T11:45:00+04:00</creation-date>
+    <last-update-date>2018-11-07T12:10:00+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Черновая отделка</renovation>
+    <description>Квартира: 6ккв 324кв.м. 1 этаж в комплексе Небо, 1 очередь корп.Коттедж 56 сдача:  этажей: 2 адрес Кузьмолово дер., Застройщик: Строительный трест
+
+Загородный жилой комплекс бизнес-класса расположен всего в 10 км от города, в границах поселка Кузьмоловский Всеволожского района Ленинградской области. Здесь, вдали от суеты и шума мегаполиса, на участке площадью 15 гектаров, окруженном живописными лесами, построены кирпичные коттеджи и таунхаусы, вписанные в уникальный природный холмистый ландшафт.
+Всего построено 138 домовладения: индивидуальные коттеджи с участками от 16 соток, таунхаусы и дуплексы с участками до 8 соток. Все дома и участки оформлены в собственность. 
+
+Добраться до жилого комплекса на автомобиле можно всего за 10 минут по Токсовскому шоссе. Также можно доехать по новой дороге Санкт-Петербург–Скотное, далее повернув на Токсово, или через поселок Корабсельки. Развитое транспортное сообщение позволяет добраться до комплекса по железной дороге от станции «Девяткино» или Финляндского вокзала на электричках Сосновско-Приозерского направления, а также на маршрутных такси от станций метро «Девяткино», «Гражданский проспект», «Проспект Просвещения», «Черная речка». Кроме того, в скором времени поблизости будет построена скоростная автомагистраль Санкт-Петербург–Матокса, прямое продолжение Пискаревского проспекта.
+Инфраструктура жилого комплекса  включает в себя административное здание, расположенное у въезда в поселок, в котором размещается офис управляющей компании, магазин, ресторан, детский сад и фитнес-центр. Детский сад рассчитан на 50 воспитанников (4 группы в возрасте от 1,5 до 7 лет).
+Также в комплексе предусмотрены: спортивное поле для футбола, волейбола и баскетбола, детские игровые площадки. Помимо собственной инфраструктуры комплекса, на территории поселка Кузьмоловский расположена средняя школа № 1 с новым спортивным стадионом. Также в Кузьмолово имеется два детских сада и музыкальная школа, поликлиники, продуктовые и хозяйственные магазины. Неподалеку, в д. Энколово (ул. Шоссейная 2в) расположен  конно-спортивный клуб «Дерби». Жители поселка буквально за несколько минут могут добраться до крупных торговых центров: гипермаркеты «Лента», «О’кей», «Мега Парнас», «Перекресток» и Real, расположенные на въезде в город. Еще ближе – в микрорайоне Новое Девяткино на Токсовском шоссе – находится торговый дом «Призма», а также крупный спортивный центр «Фитнес-Хаус».</description>
+    <new-flat>true</new-flat>
+    <rooms>6</rooms>
+    <balcony>терраса</balcony>
+    <bathroom-unit>2</bathroom-unit>
+    <floor>1</floor>
+    <floors-total>2</floors-total>
+    <building-name>Небо</building-name>
+    <building-type>кирпичный</building-type>
+    <building-state>hand-over</building-state>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус Коттедж 56</building-section>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>3.00</ceiling-height>
+    <nmarket-complex-id>50625</nmarket-complex-id>
+    <nmarket-building-id>50622</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <region>Ленинградская область</region>
+      <district>Всеволожский район</district>
+      <locality-name>Кузьмолово</locality-name>
+      <latitude>60.1244147394</latitude>
+      <longitude>30.506612422</longitude>
+    </location>
+    <sales-agent>
+<phone />
+<organization />
+<url />
+<email />
+<category>agency</category>
+<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+</sales-agent>
+<price>
+      <value>29500000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>323.50</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>145.20</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>58.00</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+  </offer>
+</realty-feed>

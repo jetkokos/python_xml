@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2018-11-09T02:45:59+04:00</generation-date>
+  <offer internal-id="1866301">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2018-04-28T15:36:00+04:00</creation-date>
+    <last-update-date>2018-10-05T09:57:39+04:00</last-update-date>
+    <manually-added>0</manually-added>
+    <mortgage>true</mortgage>
+    <renovation>Чистовая отделка</renovation>
+    <description>Студия: 17кв.м. 7 этаж в комплексе Vertical, 1 очередь корп.1 сдача: 1кв. 2019 этажей: 14 адрес Большой Сампсониевский пр., д.68/Ж, Застройщик: ИнтерРост
+
+      Жилой комплекс возводиться на Большом Сампсониевском проспекте в Выборгском районе Санкт-Петербурга, рядом с метро Лесная.
+      420 апартаментов малых площадей с эргономичной планировкой, оснащенных всем необходимым. Несколько форматов отельного размещения: классический — studio, микро – friends, семейный — family и групповой – team. Помимо стандартного отельного сервиса и круглосуточной стойки регистрации на территории расположится лобби-бар, бизнес-библиотека, коворкинг-пространство, круглосуточная прачечная, фитнес-зал, чил-аут и игровая зона. Подземный и открытый паркинги.
+      Из объектов инфраструктуры в пешей доступности два детских сада — № 21 и 29, гимназия № 74, школы № 104, 117 и 123. Любители спорта смогут посещать комплекс "Красный октябрь" и крытый бассейн. За покупками можно будет отправиться в торговый центр "Европолис", который находится в 10 минутах ходьбы.
+      Зеленые зоны раскинулись к западу, за Большим Сампсониевским проспектом. Воронинский сквер и сад Александра Матросова — ближайшие из них. За 15-20 минут можно дойти и до более крупного парка Лесотехнической академии.
+      Жилой комплекс от Большого Сампсониевского проспекта разделяют 135 метров. В одну сторону по нему можно выехать до центра через Литейный мост. В другую сторону проспект переходит в Энгельса и далее в 10 километрах ведет на кольцевую. В сторону Петроградки следует направляться по Кантемировской улице. Проезд до ЗСД находится через Ушаковскую набережную и Приморский проспект.</description>
+    <new-flat>true</new-flat>
+    <rooms>1</rooms>
+    <studio>1</studio>
+    <balcony>нет</balcony>
+    <bathroom-unit>совмещенный</bathroom-unit>
+    <floor>7</floor>
+    <floors-total>14</floors-total>
+    <building-name>Vertical</building-name>
+    <building-type>монолитный</building-type>
+    <building-phase>Очередь 1</building-phase>
+    <building-section>Корпус 1</building-section>
+    <built-year>2019</built-year>
+    <ready-quarter>1</ready-quarter>
+    <lift>1</lift>
+    <parking>1</parking>
+    <ceiling-height>2.55</ceiling-height>
+    <nmarket-complex-id>48982</nmarket-complex-id>
+    <nmarket-building-id>48981</nmarket-building-id>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Выборгский</sub-locality-name>
+      <non-admin-sub-locality>Выборгский</non-admin-sub-locality>
+      <address>Большой Сампсониевский пр., д.68/Ж</address>
+      <metro>
+        <name>Лесная</name>
+        <time-on-foot>11</time-on-foot>
+      </metro>
+      <latitude>59.9820843416</latitude>
+      <longitude>30.3336695515</longitude>
+    </location>
+    <sales-agent>
+      <phone />
+      <organization />
+      <url />
+      <email />
+      
+      <category>agency</category>
+      <photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+    </sales-agent>
+    <price>
+      <value>2819310</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>17.00</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.90</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.90</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <image>http://img.nmarket.pro/photo/pid/4D1668EC-A90F-4800-AB68-B40CF7A7D7E8/?v=1&amp;cid=2411&amp;pid=4D1668EC-A90F-4800-AB68-B40CF7A7D7E8&amp;wpsid=13&amp;hash=ae9589f7630d67249e811a7d5e7c864b</image>
+  </offer>
+</realty-feed>
