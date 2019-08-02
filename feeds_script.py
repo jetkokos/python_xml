@@ -20,18 +20,27 @@ root2 = tree2.getroot()
 # =============================================================================
     
 
-#Adding new items from NMARKET feed
-
-outputRoot = ET.Element('Ads')
+#Creating output.xml 
 
 
+#Creating attributes "target" and "formatVersion"
+outputRoot = ET.Element("Ads", {"target": "Avito.ru", "formatVersion": "3"})
+
+#Filling new list with Ad from root2
+i = 0 
+for ad in root2:
+    outputRootAd = ET.SubElement(outputRoot, "Ad")
+    for adProperty in root2[i]:
+        outputRootAd.append(adProperty) 
+    i += 1  
+        
 
 
-
-for ad in root2[3]:
-    outputAd = outputRoot.append(ad)
-    #outputAd.text = ad.text
-    print(ad.text)
+    
+  
+    
+#for i in outputRootAd:
+ #   print(str(i) + ' ' + str(i.text))
 
 
 
@@ -40,3 +49,4 @@ for ad in root2[3]:
 
 
 outputTree = ET.ElementTree(outputRoot)
+file = outputTree.write('output.xml', 'UTF-8')
