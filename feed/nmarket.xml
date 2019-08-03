@@ -49,14 +49,14 @@
       <longitude>30.3336695515</longitude>
     </location>
     <sales-agent>
-<phone />
-<organization />
-<url />
-<email />
-<category>agency</category>
-<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
-</sales-agent>
-<price>
+    <phone />
+    <organization />
+    <url />
+    <email />
+    <category>agency</category>
+    <photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
+    </sales-agent>
+    <price>
       <value>2819310</value>
       <currency>RUR</currency>
     </price>
@@ -866,70 +866,5 @@
     </kitchen-space>
     <image>http://img.nmarket.pro/photo/pid/32483727-1D66-4302-A36C-3178EF44930D/?v=1&amp;cid=2411&amp;pid=32483727-1D66-4302-A36C-3178EF44930D&amp;wpsid=13&amp;hash=52c2d00fcd7c7d5a000a49e6db14f185</image>
   </offer>
-  <offer internal-id="2225266">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <creation-date>2018-11-07T11:45:00+04:00</creation-date>
-    <last-update-date>2018-11-07T12:10:00+04:00</last-update-date>
-    <manually-added>0</manually-added>
-    <mortgage>true</mortgage>
-    <renovation>Черновая отделка</renovation>
-    <description>Квартира: 6ккв 324кв.м. 1 этаж в комплексе Небо, 1 очередь корп.Коттедж 56 сдача:  этажей: 2 адрес Кузьмолово дер., Застройщик: Строительный трест
-
-Загородный жилой комплекс бизнес-класса расположен всего в 10 км от города, в границах поселка Кузьмоловский Всеволожского района Ленинградской области. Здесь, вдали от суеты и шума мегаполиса, на участке площадью 15 гектаров, окруженном живописными лесами, построены кирпичные коттеджи и таунхаусы, вписанные в уникальный природный холмистый ландшафт.
-Всего построено 138 домовладения: индивидуальные коттеджи с участками от 16 соток, таунхаусы и дуплексы с участками до 8 соток. Все дома и участки оформлены в собственность. 
-
-Добраться до жилого комплекса на автомобиле можно всего за 10 минут по Токсовскому шоссе. Также можно доехать по новой дороге Санкт-Петербург–Скотное, далее повернув на Токсово, или через поселок Корабсельки. Развитое транспортное сообщение позволяет добраться до комплекса по железной дороге от станции «Девяткино» или Финляндского вокзала на электричках Сосновско-Приозерского направления, а также на маршрутных такси от станций метро «Девяткино», «Гражданский проспект», «Проспект Просвещения», «Черная речка». Кроме того, в скором времени поблизости будет построена скоростная автомагистраль Санкт-Петербург–Матокса, прямое продолжение Пискаревского проспекта.
-Инфраструктура жилого комплекса  включает в себя административное здание, расположенное у въезда в поселок, в котором размещается офис управляющей компании, магазин, ресторан, детский сад и фитнес-центр. Детский сад рассчитан на 50 воспитанников (4 группы в возрасте от 1,5 до 7 лет).
-Также в комплексе предусмотрены: спортивное поле для футбола, волейбола и баскетбола, детские игровые площадки. Помимо собственной инфраструктуры комплекса, на территории поселка Кузьмоловский расположена средняя школа № 1 с новым спортивным стадионом. Также в Кузьмолово имеется два детских сада и музыкальная школа, поликлиники, продуктовые и хозяйственные магазины. Неподалеку, в д. Энколово (ул. Шоссейная 2в) расположен  конно-спортивный клуб «Дерби». Жители поселка буквально за несколько минут могут добраться до крупных торговых центров: гипермаркеты «Лента», «О’кей», «Мега Парнас», «Перекресток» и Real, расположенные на въезде в город. Еще ближе – в микрорайоне Новое Девяткино на Токсовском шоссе – находится торговый дом «Призма», а также крупный спортивный центр «Фитнес-Хаус».</description>
-    <new-flat>true</new-flat>
-    <rooms>6</rooms>
-    <balcony>терраса</balcony>
-    <bathroom-unit>2</bathroom-unit>
-    <floor>1</floor>
-    <floors-total>2</floors-total>
-    <building-name>Небо</building-name>
-    <building-type>кирпичный</building-type>
-    <building-state>hand-over</building-state>
-    <building-phase>Очередь 1</building-phase>
-    <building-section>Корпус Коттедж 56</building-section>
-    <lift>1</lift>
-    <parking>1</parking>
-    <ceiling-height>3.00</ceiling-height>
-    <nmarket-complex-id>50625</nmarket-complex-id>
-    <nmarket-building-id>50622</nmarket-building-id>
-    <location>
-      <country>Россия</country>
-      <region>Ленинградская область</region>
-      <district>Всеволожский район</district>
-      <locality-name>Кузьмолово</locality-name>
-      <latitude>60.1244147394</latitude>
-      <longitude>30.506612422</longitude>
-    </location>
-    <sales-agent>
-<phone />
-<organization />
-<url />
-<email />
-<category>agency</category>
-<photo>http://img.nmarket.pro/photo/pid/FCEE173B-3E45-4D97-BCE2-4CEE1B0F602F/?v=14&amp;wpsid=13</photo>
-</sales-agent>
-<price>
-      <value>29500000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>323.50</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>145.20</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>58.00</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-  </offer>
+  
 </realty-feed>
